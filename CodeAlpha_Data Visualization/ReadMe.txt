@@ -1,18 +1,16 @@
-## 📌 Internship
+📌 Internship
 
-**Program:** CodeAlpha Data Analytics Internship
-**Task:** Data Visualization
-**Dataset:** Netflix Movies & TV Shows
+Program: CodeAlpha Data Analytics Internship
+Task: Data Visualization
+Dataset: Netflix Movies & TV Shows
 
----
 
-## 🎯 Objective
+ 🎯 Objective
 
 Transform raw Netflix dataset into visual formats to reveal insights, trends, and patterns that support data-driven decision making.
 
----
 
-## 📊 Visualizations Created
+ 📊 Visualizations Created
 
 1. Movies vs TV Shows Distribution
 2. Content Release Trend Over Years
@@ -22,9 +20,8 @@ Transform raw Netflix dataset into visual formats to reveal insights, trends, an
 6. Content Added Over Time
 7. Correlation Heatmap
 
----
 
-## 🔍 Visualization Insights
+🔍 Visualization Insights
 
 * Movies significantly outnumber TV Shows
 * Netflix content grew rapidly after 2015
@@ -32,9 +29,8 @@ Transform raw Netflix dataset into visual formats to reveal insights, trends, an
 * TV-MA and TV-14 ratings lead
 * Most movies are 80–120 minutes long
 
----
 
-## 🛠️ Tools Used
+🛠️ Tools Used
 
 * Python
 * Matplotlib
@@ -42,14 +38,12 @@ Transform raw Netflix dataset into visual formats to reveal insights, trends, an
 * Pandas
 * Google Colab
 
----
 
-## 📂 Files Included
+ 📂 Files Included
 
 * `codealpha_data_visualization.py`- Python Source File 
 * Visualization images (PNG files)
 * Dataset file
 
----
 
 ✅ This task highlights the ability to present analytical findings visually.
