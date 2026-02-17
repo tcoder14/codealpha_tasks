@@ -1,18 +1,16 @@
-## 📌 Internship
+📌 Internship
 
-**Program:** CodeAlpha Data Analytics Internship
-**Task:** Exploratory Data Analysis
-**Dataset:** Netflix Movies & TV Shows
+Program: CodeAlpha Data Analytics Internship
+Task: Exploratory Data Analysis
+Dataset: Netflix Movies & TV Shows
 
----
 
-## 🎯 Objective
+🎯 Objective
 
 The objective of this task is to explore the dataset, understand its structure, identify patterns and detect anomalies.
 
----
 
-## 📁 Dataset Description
+ 📁 Dataset Description
 
 The dataset contains Netflix content information, including:
 
@@ -29,18 +27,16 @@ The dataset contains Netflix content information, including:
 
 File used: `netflix_titles.csv`
 
----
 
-## 🧪 Steps Performed
+ 🧪 Steps Performed
 
 * Loaded dataset using Pandas
 * Inspected structure using `.info()` and `.describe()`
 * Checked dataset shape
 * Identified missing values
 
----
 
-## 🔍 Key Insights
+ 🔍 Key Insights
 
 * Movies dominate Netflix catalog
 * Content production increased rapidly after 2015
@@ -48,22 +44,19 @@ File used: `netflix_titles.csv`
 * Mature ratings (TV-MA, TV-14) are most common
 * Missing data exists in director and cast columns
 
----
 
-## 🛠️ Tools & Libraries
+ 🛠️ Tools & Libraries
 
 * Python
 * Google Colab
 * Pandas
 * NumPy
 
----
 
-## 📂 Files Included
+📂 Files Included
 
 * `codealpha_exploratory_data_analysis_(eda).py` — Python Source File 
 * `netflix_titles.csv` — Dataset
 
----
 
 ✅ This task demonstrates data exploration and insight generation skills.
