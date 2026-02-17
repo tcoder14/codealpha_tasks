@@ -1,18 +1,16 @@
-## 📌 Internship
+📌 Internship
 
-**Program:** CodeAlpha Data Analytics Internship
-**Task:** Sentiment Analysis
-**Dataset:** Netflix Movies & TV Shows
+Program: CodeAlpha Data Analytics Internship
+Task: Sentiment Analysis
+Dataset: Netflix Movies & TV Shows
 
----
 
-## 🎯 Objective
+ 🎯 Objective
 
 Analyze textual descriptions of Netflix content to classify sentiment as Positive, Neutral, or Negative using NLP techniques.
 
----
 
-## 🧠 Methodology
+🧠 Methodology
 
 * Extracted `description` column
 * Applied VADER Sentiment Analyzer
@@ -23,26 +21,26 @@ Analyze textual descriptions of Netflix content to classify sentiment as Positiv
   * Neutral
   * Negative
 
----
 
-## 📊 Visual Outputs
+
+ 📊 Visual Outputs
 
 * Sentiment distribution bar chart
 * Positive sentiment word cloud
 * Negative sentiment word cloud
 
----
 
-## 🔍 Key Insights
+
+🔍 Key Insights
 
 * Majority descriptions show Positive sentiment
 * Negative sentiment is minimal
 * Neutral sentiment appears in factual summaries
 * Promotional wording drives positive tone
 
----
 
-## 🛠️ Tools & Libraries
+
+🛠️ Tools & Libraries
 
 * Python
 * NLTK
@@ -51,14 +49,13 @@ Analyze textual descriptions of Netflix content to classify sentiment as Positiv
 * Matplotlib
 * Pandas
 
----
 
-## 📂 Files Included
+
+ 📂 Files Included
 
 * `codealpha_sentiment_analysis.py`- Python Source File
 * Wordcloud images (PNG file)
 * Dataset file
 
----
 
 ✅ This task demonstrates NLP preprocessing and sentiment classification skills.
