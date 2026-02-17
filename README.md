@@ -6,10 +6,13 @@ This repository contains all tasks completed as part of my Data Analytics Intern
 👨‍💻 Intern Information
 
 Name: Hasan Al Tanzim
+
 Domain: Data Analytics
+
 Internship Provider: CodeAlpha
 
 📌 Tasks Overview
+
 🔹 Exploratory Data Analysis (EDA)
 
 Data inspection and cleaning
